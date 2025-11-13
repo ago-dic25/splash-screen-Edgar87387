@@ -1,16 +1,50 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/_1Q9q0d8)
-# blank-template
+# Welcome to your Expo app 👋
 
-## Importante Copia y pega el folder de tu proyecto en el  repositorio de la asignación en Github Classroom
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+## Get started
 
-Instrucciones:
-1. Localiza app.json
-2. Crea tu propio logo o imagen (recomendado 1024x1024px PNG) - Puedes utilizar Figma.com o **Canva** para crear una imagen o modificar algna que ya exista
-3. Guárdala dentro de la carpeta /assets/ y nómbrala splash.png.
-4. Expo debería mostrar la imagen
-5. Utiliza el código en este repositorio para agregar el Splash screen y modificar el tiempo de reproducción
+1. Install dependencies
 
-6. Retos:
-* Cambia el color de fondo y la propiedad de la imagen entre "cover" y "contain"
-* Utiliza expo-linear-gradient si quieres utilizar gradientes. Puedes utilizar 
+   ```bash
+   npm install
+   ```
+
+2. Start the app
+
+   ```bash
+   npx expo start
+   ```
+
+In the output, you'll find options to open the app in a
+
+- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
+- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
+- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+
+You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+
+## Get a fresh project
+
+When you're ready, run:
+
+```bash
+npm run reset-project
+```
+
+This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+
+## Learn more
+
+To learn more about developing your project with Expo, look at the following resources:
+
+- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
+- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+
+## Join the community
+
+Join our community of developers creating universal apps.
+
+- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
+- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
